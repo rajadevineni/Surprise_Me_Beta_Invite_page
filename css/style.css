@@ -108,7 +108,7 @@ h1, h2, h3, h4, h5, h6, figure {
     padding: 0 20px;
   }
 }
-@media screen and (max-width: 868px) {
+@media screen and (max-width: 768px) {
   .countdown-wrap, .bg-cover {
     width: 100%;
   }
@@ -120,7 +120,7 @@ h1, h2, h3, h4, h5, h6, figure {
   background-position: center center;
   position: relative;
 }
-@media screen and (max-width: 968px) {
+@media screen and (max-width: 768px) {
   .bg-cover {
     display: none;
   }
