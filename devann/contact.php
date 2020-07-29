@@ -9,7 +9,7 @@
 	// Enter the email where you want to receive the notification when someone submit form
 	$recipient = "surpriseme.devann2019@gmail.com";
 	
-	$subject = "SurpriseMe by DevAnn";
+	$subject = "SurpriseMe Beta Users";
 	
 	$mailheader = "From: $email\\r\\n";
 	$mailheader .= "Reply-To: $email\\r\\n";
