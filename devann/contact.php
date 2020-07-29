@@ -22,7 +22,7 @@
 ?>
 	
 	<script language="javascript" type="text/javascript">
-		alert('Thank you for you e-mail. We will contact you shortly.');
+		alert('Thanks for signing up for our app (beta)! We will let you know when it is ready. Keep waiting!');
 		window.location = "../index.html";
 	</script>
 	
@@ -33,7 +33,7 @@
 ?>
 
     <script language="javascript" type="text/javascript">
-		alert('Message not sent.');
+		alert('Whoops something went wrong.');
 		window.location = "../index.html";
     </script>
 	
